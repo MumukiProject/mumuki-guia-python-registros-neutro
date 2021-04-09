@@ -5,7 +5,7 @@ La sintaxis para modificar campos de diccionarios es muy similar a lo que hacemo
 ```python
 ム saturno["temperatura_promedio"] = -140
 ```
-Ahora imaginá que tenemos un diccionario para representar un archivo, del que sabemos su ruta (dónde está guardado) y su fecha de creación. Si queremos cambiar su ruta podemos hacer...
+Ahora imagina que tenemos un diccionario para representar un archivo, del que sabemos su ruta (dónde está guardado) y su fecha de creación. Si queremos cambiar su ruta podemos hacer...
 
 ```python
 ム leeme
@@ -21,4 +21,4 @@ Luego el diccionario `leeme` tendrá modificada su ruta:
 { "ruta": "C:\documentos\leeme.txt", "creacion": "23/09/2004" }
 ```
 
-> ¡Es tu turno! Definí el procedimiento `mover_archivo`, que recibe un diccionario y una nueva ruta y modifica el archivo con la nueva ruta.
+> ¡Es tu turno! Define el procedimiento `mover_archivo`, que recibe un diccionario y una nueva ruta y modifica el archivo con la nueva ruta.
