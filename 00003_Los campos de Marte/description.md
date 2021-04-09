@@ -5,7 +5,7 @@ Cuando consultaste los diccionarios existentes, se veía algo parecido a lo sigu
 { "nombre": "Taj Mahal", "locacion": "Agra, India", "anio_de_construccion": 1653 }
 ```
 
-Esa consulta era porque estábamos viendo al diccionario `taj_mahal` completo, incluyendo todos sus campos. ¡Pero también se puede consultar por un campo particular! Mirá :eyes::
+Esa consulta era porque estábamos viendo al diccionario `taj_mahal` completo, incluyendo todos sus campos. ¡Pero también se puede consultar por un campo particular! Mira :eyes::
 
 ```python
 ム taj_mahal["locacion"]
@@ -16,4 +16,4 @@ Esa consulta era porque estábamos viendo al diccionario `taj_mahal` completo, i
 
 > Inicializamos los planetas `mercurio`, `marte` y `saturno` como diccionarios con los campos `nombre`, `temperatura_promedio` y si `tiene_anillos`. 
 
-> Miralos en la consola y cuando termines escribí `listo()`.
+> Míralos en la consola y cuando termines escribe `listo()`.
