@@ -8,7 +8,7 @@ True
 False
 ```
 
-> Definí la función `es_del_milenio_pasado`. Te va a ser de ayuda la función `anio` que funciona así:
+> Define la función `es_del_milenio_pasado`. Te será de ayuda la función `anio` que funciona así:
 >
 ```python
 ム anio("04/11/1993")
